@@ -1,1 +1,1 @@
-# Investigacion-de-operaciones-I
+# Investigación de operaciones I
